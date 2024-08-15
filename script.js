@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "voçe sabia que grande parte da energia gerada no mundo, também é a mesma que pode causar seu fim? isso acontece pois 89,1% da energia produzida no mundo provém de fontes não renováveis",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "e como isso me afeta?",
+                afirmacao: "a energia não renovável te afeta, assim como afeta seus pais,e a todos nós pois como se trata de uma energia com data de validade limitada não sabemos ao certo o futuro da geração de energia, e a energia é responsavel por muitas coisas, como por exemplo a sua internet. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "mas eu não ligo",
+                afirmacao: "não se importar com as fontes de enrgia pode ser algo muito prejudicial, pois isso envolve muito mias do que voçẽ possa imaginar, a energia esta presente em tudo desde o que comemos e até a nossa comunicação, e isso ocorre pois grande parte de nossa comunicação moderna provém da internet, cujo é 100% depenente de enrgia "
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "é importante salientar que grande parte da energia não renovável tambem é extremamente prejudicial para a natureza",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "bem, mas isso não é muito legal né?",
+                afirmacao: "e de fato, a verdade é que se continuarmos no ritmo em que estamos criando energia não renovavel, a natureza não tera um desfecho muito legal, mas como isso nos afeta? básicamente em muito, pois dependemos da natureza para tudo, e quando falo em tudo, é em tudo mesmo, desde comer e até respirar"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "mas e dai? eu não vivo no mato",
+                afirmacao: "agora, pensar que não somos dependentes da natureza de forma nenhuma é algo totalmente errado, e muito pelo contrário, dependemos dela para tudo, inclusive viver, o oxigenio cujo voçẽ respira é provido por quem? pela natureza obviamente."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "certamente voçẽ usa muito a internet, agora voçẽ sabe como nossa atual matriz energética globar pode prejudicar a internet?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "sim, a internet só existe graças a energia certo? e nossa matriz energetica global não é muito renovável",
+                afirmacao: "e de fato, como eu já disse anteriormente nossa internet só existe graças a energia, e como grande parte de nossa energia é gerada a partir de fontes não renováveis isso também tornar a internet não renovável"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "não, eu não sei",
+                afirmacao: "como já disse anteriormente, a internet é totalmente dependente de nossa energia e como nossa energia é composta majoritariamente de fontes não renovaveis, isso tornar a internet em algo não renovável também"
             }
         ]
     },
