@@ -45,28 +45,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "voçẽ sabe como a internet pode influencia-lo a usar drogas?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "na verdade, ela não consegue me influenciar em tudo?",
+                afirmacao: "a internet como vemos em nossos dias atuais, está a todo momento tentando influencia-lo a ter um certo comportamento, seja por pessoas, propagandas, e esses comportamentos são implantados sem nem que voçe perceba, comportamentos como uma vontade imensa de comprar coisas, ou de jogar algo, ou só de passar um tempo em redes sociais, esses comportamentos criam uma necessidade em voçe, uma necessidade cujo muitas vezes não temos controle sobre, portanto a internet acaba se tornando uma droga"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "eu não uso e não sei",
+                afirmacao: "algo interessante a se observar é que na maioria das vezes o tema 'drogas' é necessariamente associado a algo pesado, e com isso nos automaticamente nos afastamos deste tema certo? porém se voçe pegar uma das carcteristicas da droga é a que voçe se torna dependente dela, ou seja, qualquer coisa pode se tornar uma droga, incluindo a internet, que em seu uso excessivo acaba mudando sua cabeça, pois a internet tem como caracteristica moldar comportamentos,já que, uma vez na internet voçe estara exposto a propagandas, pessoas, passa tempos, e por si só não são coisas ruins, porém em excesso podem haver danos"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "tendo em vista nosas perguntas, voçe acha que a internet serve para bons propositos? ou isso diz mais sobre voçe?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "a internet nos mostra o que queremos certo? portanto ela não é necessáriamente boa ou ruim, ela nos mostra o que queremos",
+                afirmacao: "e de fato afirmar que a internet é boa ou ruim é algo complicado pois depende muito do que voçe quer ver, porém ao mesmo tempo nosso mundo tenta a todo custo moldar comportamentos e isso inclui a internet, e isso se encaixa com nossas primeiras perguntas sobre aquecimento global, porque de fato grande parte desses comportamentos provém de uma ideologia consumista, ideologia esta que por sua vez é uma se não a que mais influencia o nosso problema com aquecimento global "
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "a internet é ruim pois a todo momento ela tenta moldar comportamentos na gente, e esses comportamentos são por mkuitas vezes consumistas, então ela contribui para o aquecimento global",
+                afirmacao: "afirmar que a internet é ruim por conta de sua tendencia a tentar te moldar como um consumista não esta totalmente errada, porém é importante lembra que por muitas das vezes nós escolhemos o que queremos ver, claro que náo só a internet mas o mundo como um todo tenta nos influenciar, porém a única forma de lutar contra isso é ter consciencia"
             }
         ]
     },
